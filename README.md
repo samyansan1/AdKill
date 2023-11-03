@@ -4,11 +4,11 @@
 <strong>🌐 基础规则 规则地址</strong><br/><br/>
 Github raw
 ```
-https://raw.githubusercontent.com/samyansan/ADKill/main/w.txt
+https://raw.githubusercontent.com/samyansan1/ADKill/main/w.txt
 ```
 
 <strong>🌐 增强规则 规则地址</strong><br/><br/>
 Github raw
 ```
-https://raw.githubusercontent.com/samyansan/ADKill/main/f.txt
+https://raw.githubusercontent.com/samyansan1/ADKill/main/f.txt
 ```
